@@ -1,6 +1,9 @@
 💈 Barber Shop Demo Site
+
 Live demo: https://dkdodkeo.github.io/barber-shop/
+
 Author: Dkdodkeo
+
 Status: ✅ Public & deployed via GitHub Pages
 
 🧾 Overview
